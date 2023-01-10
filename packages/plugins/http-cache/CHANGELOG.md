@@ -1,5 +1,26 @@
 # @graphql-mesh/plugin-http-cache
 
+## 0.1.6
+
+### Patch Changes
+
+- [#4988](https://github.com/Urigo/graphql-mesh/pull/4988)
+  [`ad938f485`](https://github.com/Urigo/graphql-mesh/commit/ad938f485a9b881a0379284ac582c6c599aa1117)
+  Thanks [@renovate](https://github.com/apps/renovate)! - dependencies updates:
+
+  - Updated dependency
+    [`@whatwg-node/fetch@0.6.1` ↗︎](https://www.npmjs.com/package/@whatwg-node/fetch/v/0.6.1) (from
+    `0.5.4`, in `dependencies`)
+
+- [#4930](https://github.com/Urigo/graphql-mesh/pull/4930)
+  [`c015b02a1`](https://github.com/Urigo/graphql-mesh/commit/c015b02a1aa50e4d760c3fd59f76dc5dfe587664)
+  Thanks [@gilgardosh](https://github.com/gilgardosh)! - Prettier fixes
+
+- Updated dependencies
+  [[`c015b02a1`](https://github.com/Urigo/graphql-mesh/commit/c015b02a1aa50e4d760c3fd59f76dc5dfe587664)]:
+  - @graphql-mesh/types@0.89.4
+  - @graphql-mesh/utils@0.43.5
+
 ## 0.1.5
 
 ### Patch Changes

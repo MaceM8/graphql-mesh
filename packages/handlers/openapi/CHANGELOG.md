@@ -1,5 +1,16 @@
 # @graphql-mesh/openapi
 
+## 0.35.7
+
+### Patch Changes
+
+- Updated dependencies
+  [[`c015b02a1`](https://github.com/Urigo/graphql-mesh/commit/c015b02a1aa50e4d760c3fd59f76dc5dfe587664)]:
+  - @omnigraph/openapi@0.19.7
+  - @graphql-mesh/store@0.9.5
+  - @graphql-mesh/types@0.89.4
+  - @graphql-mesh/utils@0.43.5
+
 ## 0.35.6
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @graphql-mesh/transform-prune
 
+## 0.1.5
+
+### Patch Changes
+
+- Updated dependencies
+  [[`c015b02a1`](https://github.com/Urigo/graphql-mesh/commit/c015b02a1aa50e4d760c3fd59f76dc5dfe587664)]:
+  - @graphql-mesh/types@0.89.4
+
 ## 0.1.4
 
 ### Patch Changes
