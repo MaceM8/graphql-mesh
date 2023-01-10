@@ -1,5 +1,33 @@
 # @graphql-mesh/http
 
+## 0.3.8
+
+### Patch Changes
+
+- [#4988](https://github.com/Urigo/graphql-mesh/pull/4988)
+  [`ad938f485`](https://github.com/Urigo/graphql-mesh/commit/ad938f485a9b881a0379284ac582c6c599aa1117)
+  Thanks [@renovate](https://github.com/apps/renovate)! - dependencies updates:
+
+  - Updated dependency
+    [`@whatwg-node/router@0.1.2` ↗︎](https://www.npmjs.com/package/@whatwg-node/router/v/0.1.2)
+    (from `0.0.3`, in `dependencies`)
+
+- [#4991](https://github.com/Urigo/graphql-mesh/pull/4991)
+  [`bb5abc15d`](https://github.com/Urigo/graphql-mesh/commit/bb5abc15d8ff9227f5fc9fafe78d1befc7ae0797)
+  Thanks [@renovate](https://github.com/apps/renovate)! - dependencies updates:
+  - Updated dependency
+    [`@whatwg-node/router@0.1.3` ↗︎](https://www.npmjs.com/package/@whatwg-node/router/v/0.1.3)
+    (from `0.1.2`, in `dependencies`)
+  - Updated dependency [`graphql-yoga@3.3.0` ↗︎](https://www.npmjs.com/package/graphql-yoga/v/3.3.0)
+    (from `3.2.1`, in `dependencies`)
+- Updated dependencies
+  [[`ad938f485`](https://github.com/Urigo/graphql-mesh/commit/ad938f485a9b881a0379284ac582c6c599aa1117),
+  [`c015b02a1`](https://github.com/Urigo/graphql-mesh/commit/c015b02a1aa50e4d760c3fd59f76dc5dfe587664)]:
+  - @graphql-mesh/runtime@0.46.5
+  - @graphql-mesh/cross-helpers@0.3.1
+  - @graphql-mesh/types@0.89.4
+  - @graphql-mesh/utils@0.43.5
+
 ## 0.3.7
 
 ### Patch Changes

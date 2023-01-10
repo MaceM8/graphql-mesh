@@ -1,5 +1,37 @@
 # json-machete
 
+## 0.18.4
+
+### Patch Changes
+
+- [#4930](https://github.com/Urigo/graphql-mesh/pull/4930)
+  [`c015b02a1`](https://github.com/Urigo/graphql-mesh/commit/c015b02a1aa50e4d760c3fd59f76dc5dfe587664)
+  Thanks [@gilgardosh](https://github.com/gilgardosh)! - Prettier fixes
+
+- [#4988](https://github.com/Urigo/graphql-mesh/pull/4988)
+  [`ad938f485`](https://github.com/Urigo/graphql-mesh/commit/ad938f485a9b881a0379284ac582c6c599aa1117)
+  Thanks [@renovate](https://github.com/apps/renovate)! - dependencies updates:
+
+  - Updated dependency
+    [`@whatwg-node/fetch@^0.6.0` ↗︎](https://www.npmjs.com/package/@whatwg-node/fetch/v/0.6.0) (from
+    `^0.5.0`, in `dependencies`)
+
+- [#5006](https://github.com/Urigo/graphql-mesh/pull/5006)
+  [`1a3642884`](https://github.com/Urigo/graphql-mesh/commit/1a364288400848e9b238bfdd4e98323f38a88289)
+  Thanks [@ardatan](https://github.com/ardatan)! - Heal types with \`required\` only if it is an
+  array
+
+- [#5001](https://github.com/Urigo/graphql-mesh/pull/5001)
+  [`debb1c80e`](https://github.com/Urigo/graphql-mesh/commit/debb1c80ef94af789c7e9eda2ceea882f3d2c83b)
+  Thanks [@gilgardosh](https://github.com/gilgardosh)! - Enums that include the value "null" are now
+  converted to nullable
+
+- Updated dependencies
+  [[`c015b02a1`](https://github.com/Urigo/graphql-mesh/commit/c015b02a1aa50e4d760c3fd59f76dc5dfe587664)]:
+  - @graphql-mesh/cross-helpers@0.3.1
+  - @graphql-mesh/types@0.89.4
+  - @graphql-mesh/utils@0.43.5
+
 ## 0.18.3
 
 ### Patch Changes
